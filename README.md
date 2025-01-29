@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on metallic glass simulations using ML techniques<br>🤝 Looking for Grad opportunities to apply my skills and knowledge<br>⚡ The earthy smell of rain is called Petrichor
+🔭 Currently working on metallic glass simulations using computational techniques<br>🤝 Looking for Grad opportunities to apply my skills and knowledge<br>⚡ The earthy smell of rain is called Petrichor
 
 
 ## 🌐 Socials:
